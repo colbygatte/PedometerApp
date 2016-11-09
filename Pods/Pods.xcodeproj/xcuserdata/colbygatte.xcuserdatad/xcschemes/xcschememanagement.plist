@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Charts.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PedometerApp.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PedometerAppTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PedometerAppUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>13EC533A01F0E7D24002F12469695768</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>553A8DB65459695462B82D79A61D5FE0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64EFF154CBF3E077C7E71876A151EBBB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B74AA4B1C297AEFF128AB46421196484</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
